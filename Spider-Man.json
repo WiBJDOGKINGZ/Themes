@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "author": "JDOG KINGZ",
+        "name": "Spider-Man",
+        "version": "1.0"
+    },
+    "background": {
+        "blur_radius": 0,
+        "overlay_alpha": 120,
+        "url": "https:\/\/i.imgur.com\/Srr953Q.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/707808187344093246\/940328819917729832\/MinecraftItalic-R8Mo.otf.ttf"
+    },
+    "simple_colors": {
+        "input_background": 0,
+        "statusbar": 1981027347,
+        "active_channel": -16777216
+    },
+    "colors": {
+        "primary_dark_630": 385875968,
+        "primary_dark_700": 385875968,
+        "primary_dark_600": 419430400,
+        "primary_dark_900": -905969664,
+        "primary_dark_800": -771751936,
+        "primary_dark_500": -781292,
+        "primary_dark_400": -781292,
+        "primary_dark_660": -14868961,
+        "primary_dark_360": -781292,
+        "primary_dark_300": -781292,
+        "white_800": -781292,
+        "transparent": 828135732,
+        "primary_700": -1341453557,
+        "uikit_btn_bg_color_selector_background_accent_dark": -781292,
+        "primary_dark_200": -781292,
+        "primary_dark_100": -781292,
+        "white": -781292,
+        "uikit_btn_bg_color_selector_brand": -781292,
+        "uikit_settings_item_text_color_dark": -781292
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 1263621206
+    },
+    "raws": {}
+}
