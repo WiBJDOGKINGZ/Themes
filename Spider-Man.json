@@ -2,7 +2,8 @@
     "manifest": {
         "author": "JDOG KINGZ",
         "name": "Spider-Man",
-        "version": "1.0"
+        "version": "1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/WiBJDOGKINGZ\/Themes\/main\/Spider-Man.json"
     },
     "background": {
         "blur_radius": 0,
