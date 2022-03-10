@@ -10,9 +10,7 @@
         "overlay_alpha": 120,
         "url": "https:\/\/i.imgur.com\/Srr953Q.jpg"
     },
-    "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/707808187344093246\/940328819917729832\/MinecraftItalic-R8Mo.otf.ttf"
-    },
+    "fonts": {},
     "simple_colors": {
         "input_background": 0,
         "statusbar": 1981027347,
